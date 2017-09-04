@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ProjectPlan.aux
+A level-1 auxiliary file: Summary/summary.aux
+A level-1 auxiliary file: Summary/samenvatting.aux
+A level-1 auxiliary file: Preface/Preface.aux
+A level-1 auxiliary file: Chapter1/chapter1.aux
+A level-1 auxiliary file: Chapter2/chapter2.aux
+A level-1 auxiliary file: Chapter3/chapter3.aux
+A level-1 auxiliary file: Chapter4/chapter4.aux
+A level-1 auxiliary file: FPGACPUimplementation/detailed_idea.aux
+A level-1 auxiliary file: DVSidea/DVS.aux
+A level-1 auxiliary file: Appendices/appendix1.aux
+The style file: include/files/RaM-bibtex.bst
+Database file #1: bibliography.bib
+You've used 2 entries,
+            2725 wiz_defined-function locations,
+            600 strings with 5238 characters,
+and the built_in function-call counts, 940 in all, are:
+= -- 52
+> -- 35
+< -- 1
++ -- 12
+- -- 10
+* -- 63
+:= -- 139
+add.period$ -- 2
+call.type$ -- 2
+change.case$ -- 15
+chr.to.int$ -- 2
+cite$ -- 2
+duplicate$ -- 89
+empty$ -- 86
+format.name$ -- 13
+if$ -- 179
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 19
+newline$ -- 15
+num.names$ -- 7
+pop$ -- 48
+preamble$ -- 1
+purify$ -- 13
+quote$ -- 0
+skip$ -- 35
+stack$ -- 0
+substring$ -- 22
+swap$ -- 34
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 10
+warning$ -- 0
+while$ -- 4
+width$ -- 0
+write$ -- 28

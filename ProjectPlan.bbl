@@ -1,0 +1,18 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[Belbachir, 2010]{Belbachir02}
+Belbachir, A.~N. (Ed.)  (2010), \emph{Smart cameras}, Springer Verlag.
+
+\bibitem[Schraml et~al., 2010]{Belbachir01}
+Schraml, S., A.~N. Belbachir, N.~Milosevic and P.~Sch{\"{o}}n (2010), Dynamic
+  Stereo Vision System for Real-Time Tracking, \emph{Circuits and Systems
+  (ISCAS), Proceedings of 2010 IEEE International Symposium}.
+
+\end{thebibliography}
